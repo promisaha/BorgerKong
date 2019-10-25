@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BorgerKong</string>
+    <string name="big_king">Big King</string>
+    <string name="_5_50">$5.50</string>
+    <string name="textview">TextView</string>
+    <string name="text1">Our BIG KING™ Sandwich features two savory flame-grilled beef patties, topped with melted American cheese, fresh cut iceberg lettuce, crisp onions, crunchy pickles, and featuring a sweet thousand island style dressing, all on a warm, toasted, sesame seed bun.</string>
+    <string name="view_order">View Order</string>
+    <string name="item_name">item name</string>
+    <string name="price">price</string>
+    <string name="quantity">quantity</string>
+    <string name="_1">1</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="headline">Borger Kong Menu</string>
+    <string name="your_order">Your Order</string>
+    <string name="my_order">My Order</string>
+    <string name="order_details">Order Details</string>
+<!--    <string name="my_order">My Order</string>-->
+<!--    <string name="textview">TextView</string>-->
+    <string name="whopper_x_1">Whopper x 1</string>
+    <string name="who">Whopper x 1</string>
+    <string name="total_6_50">Total: $6.50</string>
+<!--    <string name="view_order">View Order</string>-->
+</resources>
